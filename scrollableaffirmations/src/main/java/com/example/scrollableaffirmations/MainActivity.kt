@@ -49,13 +49,13 @@ class MainActivity : ComponentActivity() {
 }
 
 
+//@Preview
+//@Composable
+//private fun AffirmationCardPreview() {
+//    AffirmationCard(Affirmation(R.string.affirmation1, R.drawable.image1))
+//}
+
 @Preview
-@Composable
-private fun AffirmationCardPreview() {
-    AffirmationCard(Affirmation(R.string.affirmation1, R.drawable.image1))
-}
-
-
 @Composable
 fun AffirmationsApp() {
     val layoutDirection = LocalLayoutDirection.current
