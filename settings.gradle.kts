@@ -23,3 +23,4 @@ rootProject.name = "My Application"
 include(":app")
 include(":lemonade")
 include(":tipCalculator")
+include(":scrollableaffirmations")
