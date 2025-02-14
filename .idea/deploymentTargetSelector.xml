@@ -34,7 +34,7 @@
       <SelectionState runConfigName="scrollableaffirmations">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="AffirmationCardPreview">
+      <SelectionState runConfigName="coursesapp">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>
