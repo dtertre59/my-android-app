@@ -4,83 +4,143 @@
 
 David Tertre
 
-## Versions
+## Introduction
 
-### v1.0
+The objective of this repository is to store the projects that I'm doing during my Android course.
 
-First tutorial
+Android Course: Android Basics with Compose.
 
-#### Concepts
+Course link: https://developer.android.com/courses/android-basics-compose/course?hl=en
 
-Android composable functions 
-
-Basic UI components
+Course description: Android Basics with Compose is a self-paced, online course on how to build Android apps using the latest best practices. It covers the basics of building apps with Jetpack Compose, the recommended toolkit for building user interfaces on Android.
 
 
+## Apps
+
+### First tutorials (v1.0)
+
+Android composable functions.
+
+Three basic standard layout elements: Box, Row, and Column.
+
+Text.
+
+Image.
+
+Icon.
+
+Resource Manager.
+
+### Dice Roll App (v1.1)
+
+Button.
+
+Import drawable resources.
+
+Interactive UI.
+
+'remember' compostable to store objects in a Composition to memory.
+
+'mutableStateOf()' function to make an observable.
+
+State.
+
+### Lemonade App (v1.2)
+
+Practice of previously learned material.
+
+### Tip Calculator App (v1.3)
+
+Spacer.
+
+TextField.
+
+Switch.
 
 
-### v1.1
+### Scrollable Affirmations App (v1.4)
 
-Dice Roll App
+'Card' composable.
 
-#### Concepts
+LazyColumn.
 
-Button, image, and text
 
-### v1.2
+### Courses App (v1.5)
 
-Lemonade App
+Change App Icon.
 
-#### Concepts
+Grid.
 
-State 
 
-### v1.3
+### Woof App (v1.6)
 
-Tip Calculator App
+MaterialTheme
 
-### Concepts
+Color
 
-Events
+Shape
 
-### v1.4
+Types (typography)
 
-Scrollable Afirmations App
+TopAppVar with  Scaffold
 
-#### Concepts
+Simple animation.
 
-Scrollable cards
+Link to material theme builder: https://material-foundation.github.io/material-theme-builder/
 
-### v1.5
+Link to typographies: https://m3.material.io/styles/typography/type-scale-tokens
 
-Courses App
+Link to fonts: https://fonts.google.com
 
-#### Concepts
 
-Cards
+#### Unscramble App (v1.7)
 
-### v1.6
+Data class from ui state.
 
-Woof App
+StateFlow
 
-#### Concepts
+ViewModel.
 
-Datastructure
+### Cupcake App (v1.8)
 
-#### v1.7
+NavHost composable
 
-Unscramble App
+NavHostController to navigate between screens.
 
-#### Concepts
+Intent to navigate to another app.
 
-Datastructure
 
-### v1.8
 
-Cupcake App
+### LiveCicle. From unit Architecture components
 
-#### Concepts
+to do.
 
-Screens with navigation
+
+### Internet
+
+to do
+
+### Unit 6. Data persistence
+
+to do 
+
+### Unit 7. Work Manager
+
+to do
+
+### Unit 8. Views and compose 
+
+to do
+
+### Testing
+
+- Use debugger -> done
+
+- Write automatic tests -> to do
+
+- Write unit tests to test view model -> to do
+
+- Write navigation tests -> to do
+
 
 
