@@ -1,0 +1,4 @@
+com.example.cupcake.test.cupcake-androidTest-0 /Users/dtertre59/Documents/Projects/Personal_Projects/AndroidStudioProjects/my-android-app/cupcake/build/generated/res/resValues/androidTest/debug
+com.example.cupcake.test.cupcake-mergeDebugAndroidTestResources-1 /Users/dtertre59/Documents/Projects/Personal_Projects/AndroidStudioProjects/my-android-app/cupcake/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.cupcake.test.cupcake-mergeDebugAndroidTestResources-2 /Users/dtertre59/Documents/Projects/Personal_Projects/AndroidStudioProjects/my-android-app/cupcake/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.cupcake.test.cupcake-debugAndroidTest-3 /Users/dtertre59/Documents/Projects/Personal_Projects/AndroidStudioProjects/my-android-app/cupcake/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
