@@ -142,5 +142,7 @@ to do
 
 - Write navigation tests -> to do
 
+- Read and update data with room (step 5 and 8 are tests) -> to do
+
 
 
